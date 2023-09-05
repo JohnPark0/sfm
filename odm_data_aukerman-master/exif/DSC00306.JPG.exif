@@ -1,0 +1,16 @@
+{
+    "make": "SONY",
+    "model": "DSC-WX220",
+    "width": 4896,
+    "height": 3672,
+    "projection_type": "perspective",
+    "focal_ratio": 0,
+    "orientation": 1,
+    "capture_time": 1467198207.0,
+    "gps": {
+        "latitude": 41.303763,
+        "longitude": -81.75235080555555,
+        "altitude": 340.419
+    },
+    "camera": "v2 sony dsc-wx220 4896 3672 perspective 0"
+}
